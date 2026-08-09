@@ -62,3 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PratikSarkar25&show_icons=false&theme=radical&hide_border=true" alt="Pratik's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikSarkar25&theme=radical&hide_border=true" alt="Pratik's GitHub Streak" />
 </p>
+
+### Featured Projects
+**[Legal Compliance System](https://github.com/PratikSarkar25/Legal-Compliance-System)** *(Active Development)*
+* **Architecture & Tech Stack:** Python, PyTorch, Llama 3 (Ollama), Neo4j, FAISS, Specialized Legal NLP (RoBERTa-CUAD, LegalBERT, ContractNLI), FastAPI, React.
+* **Overview:** An enterprise-grade automated auditing framework for legal document analysis and compliance verification. Engineered using a Hybrid GraphRAG approach, combining Neo4j knowledge graphs with FAISS vector search to parse and reason over complex legal texts accurately.
