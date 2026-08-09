@@ -1,247 +1,64 @@
 <div align="center">
-
-# PRATIK SARKAR
-
-<a href="https://github.com/PratikSarkar25">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=Data+Scientist+%7C+AI+Engineer+in+Progress;Deep+Learning+%7C+LLMs+%7C+NLP;AIOps+%7C+Agentic+AI+%7C+Intelligent+Systems;Mathematics+%C3%97+Data+Science+%C3%97+AI" alt="Typing SVG" />
-</a>
-
-<br>
-
-<a href="https://github.com/PratikSarkar25">
-  <img src="https://komarev.com/ghpvc/?username=PratikSarkar25&style=flat-square&color=58A6FF" alt="Profile views"/>
-</a>
-
+  <!-- Animated Typing Effect for Name -->
+  <a href="https://github.com/PratikSarkar25">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pratik+Sarkar" alt="Typing SVG - Name" />
+  </a>
+  
+  <!-- Animated Typing Effect for Interests/Titles -->
+  <a href="https://github.com/PratikSarkar25">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%7C+AI+Engineer;Deep+Learning+%26+NLP;Large+Language+Models+(LLMs);Agentic+AI+Systems;AIOps+%26+Automation" alt="Typing SVG - Interests" />
+  </a>
 </div>
 
----
+<br/>
 
-## About Me
+### About Me
+- Pursuing an MS in Data Science & Artificial Intelligence.
+- Hold an MSc in Mathematics (Specialization: BioMathematics).
+- Passionate about building intelligent systems, with a strong focus on Deep Learning, Large Language Models (LLMs), Natural Language Processing (NLP), and Agentic AI.
+- Actively exploring the intersection of AI and Operations (AIOps) to drive automated, scalable solutions.
 
-I am **Pratik Sarkar**, an aspiring **Data Scientist and AI Engineer** with a strong mathematical foundation and a growing focus on intelligent systems.
-
-I am currently pursuing an **MS in Data Science & Artificial Intelligence**, building on my **MSc in Mathematics with a specialization in BioMathematics**.
-
-My primary interests lie in understanding how modern AI systems can move beyond prediction toward **reasoning, automation, and autonomous decision-making**.
-
-My current areas of exploration include:
-
-* Deep Learning
-* Large Language Models
-* Natural Language Processing
-* AIOps and intelligent operations
-* Agentic AI
-* Retrieval-Augmented Generation
-* AI-driven automation
-* Applied Machine Learning
-
-> **Mathematics → Machine Learning → Deep Learning → LLMs → Intelligent Systems**
-
----
-
-## What I Am Working Toward
-
-<div align="center">
-
-### Building AI systems that can understand, reason, and act.
-
-</div>
-
-My goal is not simply to use AI models, but to understand the **fundamentals behind them** and learn how different components can be combined into reliable, scalable intelligent systems.
-
-I am particularly interested in the intersection of:
-
-**AI + Operations + Automation + LLMs + Agents**
-
----
-
-## Current Interests
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Deep+Learning;Large+Language+Models;Natural+Language+Processing;AIOps+%26+Observability;Agentic+AI;Retrieval-Augmented+Generation;Intelligent+Systems" alt="Current Interests"/>
-
-</div>
-
----
-
-## Technical Stack
-
-### Core Programming & Data Science
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+### Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=macys&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-### Deep Learning & AI
+### Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+**Core Programming & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
-### LLMs & Agentic AI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain" />
+**AI, LLMs & Agentic Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge" alt="CrewAI" />
 </p>
 
-<p align="center">
-
-`LangChain`    `LangGraph`    `CrewAI`    `LlamaIndex`
-
+**Big Data & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
 </p>
 
-### Big Data & Distributed Computing
-
+### GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spark,hadoop" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PratikSarkar25&show_icons=false&theme=radical&hide_border=true" alt="Pratik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikSarkar25&theme=radical&hide_border=true" alt="Pratik's GitHub Streak" />
 </p>
-
-### Analytics
-
-<p align="center">
-
-`Power BI`    `PySpark`    `Pandas`    `NumPy`
-
-</p>
-
----
-
-## AI Focus
-
-<div align="center">
-
-| Area             | Focus                                                            |
-| ---------------- | ---------------------------------------------------------------- |
-| Machine Learning | Predictive modelling, feature engineering, model evaluation      |
-| Deep Learning    | Neural networks, representation learning, PyTorch                |
-| NLP              | Text processing, embeddings, semantic understanding              |
-| LLMs             | RAG, LLM applications, evaluation and orchestration              |
-| Agentic AI       | Multi-agent systems, tool use, autonomous workflows              |
-| AIOps            | Observability, anomaly detection, RCA and intelligent operations |
-| Big Data         | Distributed processing and large-scale analytics                 |
-
-</div>
-
----
-
-## Selected Work
-
-### Legal Compliance Intelligence
-
-An AI-oriented system for analysing contracts and extracting compliance-relevant information from documents.
-
-**Focus:** Document Processing · NLP · Semantic Search · Compliance Intelligence
-
----
-
-### LLM-Powered Log Analysis & Anomaly Detection
-
-Exploring how LLMs and modern NLP techniques can be applied to operational logs for anomaly detection and intelligent analysis.
-
-**Focus:** LLMs · Log Analysis · NLP · AIOps
-
----
-
-### AIOps & Root Cause Analysis
-
-Researching modern approaches for automated incident diagnosis using:
-
-`Logs` → `Metrics` → `Traces` → `Graphs` → `Knowledge` → `Agents`
-
-**Focus:** AIOps · Observability · RCA · GNNs · Knowledge Graphs · Agentic AI
-
----
-
-### Machine Learning & Data Science
-
-Applied projects involving:
-
-`Classification` · `Clustering` · `Prediction` · `Feature Engineering` · `Model Evaluation`
-
----
-
-## Research Interests
-
-I am particularly interested in research problems where multiple AI paradigms come together.
-
-```text
-                 Intelligent Systems
-                        │
-          ┌─────────────┼─────────────┐
-          │             │             │
-       LLMs           AIOps       Deep Learning
-          │             │             │
-          └─────────────┼─────────────┘
-                        │
-                  Agentic AI
-                        │
-                        ▼
-              Autonomous Systems
-```
-
-Areas I am currently exploring include:
-
-* LLM-based reasoning
-* RAG architectures
-* Multi-agent systems
-* AIOps and observability
-* Automated Root Cause Analysis
-* Graph Neural Networks
-* Knowledge Graphs
-* Intelligent log analysis
-* AI-driven operational automation
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PratikSarkar25&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikSarkar25&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PratikSarkar25&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikSarkar25&theme=github-compact&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/PratikSarkar25">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Open to learning, research, collaboration and building intelligent systems.**
-
-<br>
-
-`Data Science` · `Artificial Intelligence` · `Deep Learning` · `LLMs` · `AIOps`
-
-</div>
