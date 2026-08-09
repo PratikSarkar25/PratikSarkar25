@@ -1,38 +1,57 @@
-# Hi there, I'm Pratik Sarkar 👋
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADB5&width=435&lines=Software+Developer;Open+Source+Enthusiast;Always+learning+new+tech" alt="Typing SVG" />
-  </a>
+  <h1>Hi there, I'm Pratik Sarkar</h1>
+  <h3>Aspiring Data Scientist | AI Engineer</h3>
 </div>
 
-## 🌐 Connect with me
-<!-- Replace the # with your actual profile links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+<br/>
 
-## 🛠️ Languages and Tools
-<!-- You can add or remove icons from the 'i=' list (e.g., py, java, cpp, react) -->
+### About Me
+- Pursuing an MS in Data Science & Artificial Intelligence.
+- Hold an MSc in Mathematics (Specialization: BioMathematics).
+- Passionate about building intelligent systems, with a strong focus on Deep Learning, Large Language Models (LLMs), Natural Language Processing (NLP), and Agentic AI.
+- Actively exploring the intersection of AI and Operations (AIOps) to drive automated, scalable solutions.
+
+### Connect with me
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,html,css,git,docker,linux" />
+  <a href="www.linkedin.com/in/pratik-sarkar-bbb476248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=macys&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-## 📊 Live GitHub Stats
+### Languages and Tools
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikSarkar25&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PratikSarkar25&theme=tokyonight&hide_border=true" />
-</div>
+**Core Programming & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
 
----
+**AI, LLMs & Agentic Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=for-the-badge" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4500?style=for-the-badge" alt="CrewAI" />
+</p>
 
-## 🐍 Activity Snake
-<!-- This will display your interactive snake animation once the GitHub Action is set up (see Step 3 below) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+**Big Data & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+</p>
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PratikSarkar25&show_icons=false&theme=radical&hide_border=true" alt="Pratik's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikSarkar25&theme=radical&hide_border=true" alt="Pratik's GitHub Streak" />
+</p>
