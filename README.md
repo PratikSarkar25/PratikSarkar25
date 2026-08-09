@@ -63,7 +63,6 @@
 </p>
 
 ### Featured Projects
-
 **[Legal Compliance System](https://github.com/PratikSarkar25/Legal-Compliance-System)** &nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F7931E&vCenter=true&width=220&lines=Active+Development...;Building+Core+Features..." alt="Active Development Animation" />
 * **Tech Stack:** <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
