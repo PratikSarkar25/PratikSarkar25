@@ -63,6 +63,20 @@
 </p>
 
 ### Featured Projects
-**[Legal Compliance System](https://github.com/PratikSarkar25/Legal-Compliance-System)** *(Active Development)*
-* **Architecture & Tech Stack:** Python, PyTorch, Llama 3 (Ollama), Neo4j, FAISS, Specialized Legal NLP (RoBERTa-CUAD, LegalBERT, ContractNLI), FastAPI, React.
+
+**[Legal Compliance System](https://github.com/PratikSarkar25/Legal-Compliance-System)** &nbsp; <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=F7931E&vCenter=true&width=220&lines=Active+Development...;Building+Core+Features..." alt="Active Development Animation" />
+* **Tech Stack:** <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Llama_3-8A2BE2?style=flat-square&logo=meta&logoColor=white" alt="Llama 3" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 * **Overview:** An enterprise-grade automated auditing framework for legal document analysis and compliance verification. Engineered using a Hybrid GraphRAG approach, combining Neo4j knowledge graphs with FAISS vector search to parse and reason over complex legal texts accurately.
+<details>
+  <summary><b>View System Architecture</b></summary>
+  <br>
+  <!-- Replace the src link below with the actual link to your uploaded image -->
+  <img src="https://raw.githubusercontent.com/PratikSarkar25/Legal-Compliance-System/main/architecture_diagram.png" alt="Legal Compliance System Architecture" width="100%">
+</details>
